@@ -33,7 +33,7 @@
     },
     family: { groomFather: "Mr.Ali", groomMother: "Mrs.Ramla", brideFather: "Mr.Moideenkutty", brideMother: "Mrs.Jumanath" },
     contact: { whatsappNumber: "919876543210", rsvpDeadline: "1 November 2026" },
-    audio: { backgroundMusic: "assets/audio/wedding-music.mp3", volume: 0.55 },
+    audio: { backgroundMusic: "assets/audio/wedding-music2.mp3", volume: 0.55 },
     invitationMessage: "With hearts full of gratitude to Allah, we invite you to join us as we celebrate the beautiful beginning of a new chapter in the lives of Ajmal Ali and Jifna Moideen...",
     closingMessage: "May Allah bless this union with love, mercy, happiness, and barakah."
   };

@@ -63,7 +63,7 @@ const weddingConfig = {
 
   /* ---- AUDIO -------------------------------------------------- */
   audio: {
-    backgroundMusic: "assets/audio/wedding-music.mp3",
+    backgroundMusic: "assets/audio/wedding-music2.mp3",
     volume: 0.55,
   },
 
